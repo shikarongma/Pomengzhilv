@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Presistent.unity
+    guid: b83b45cee7024f84ea6a4794c69e7a1c
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: eaf9ebfb0c462634da1d7dfb94484710
+  - enabled: 1
+    path: Assets/Scenes/selectChapter.unity
+    guid: fbbaf0779f230224595c187a4576af95
+  - enabled: 1
+    path: Assets/Scenes/chapter/Scene1.unity
+    guid: 056e29aa95dec3c4aa313ee26295d9a4
+  - enabled: 1
+    path: Assets/Scenes/chapter/Scene2.unity
+    guid: 0eb51ad470ac75442a3a1cf25b162261
+  - enabled: 1
+    path: Assets/Scenes/chapter/Scene3.unity
+    guid: 1cc04e3fdf19dab43b6f8f3ab2e235c8
+  - enabled: 1
+    path: Assets/Scenes/chapter/Scene4.unity
+    guid: 48864e1f045f6764396e6fdfd324dde4
+  - enabled: 1
+    path: Assets/Scenes/chapter/Scene5.unity
+    guid: 434d1688fa1d3894390379e69d10bdab
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 64b2a6e2a7a7a0f40a4bc950c72a1144, type: 2}
